@@ -8,3 +8,8 @@ resource "azurerm_resource_group" "example1" {
     location = "eastus2"
   
 }
+resource "azurerm_resource_group" "example3" {
+    name = "new-rg4"
+    location = "eastus"
+  
+}
