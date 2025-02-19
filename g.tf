@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "example" {
-    name = "rg1"
-    location = "eastus"
+    name = "new-rg2"
+    location = "eastus2"
   
 }
